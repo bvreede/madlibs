@@ -9,7 +9,6 @@ story_grocer(
   fruit,
   grocery_item,
   verb,
-  weather,
   mode_of_transport,
   judgement
 )
@@ -22,8 +21,6 @@ story_grocer(
 \item{grocery_item}{An item found at the grocery store}
 
 \item{verb}{A past tense verb (e.g. "took" or "smashed")}
-
-\item{weather}{Description of the weather (e.g. "windy" or "sunny")}
 
 \item{mode_of_transport}{A transportation device (e.g. "bus" or "bicycle")}
 
@@ -41,7 +38,6 @@ story_grocer(
   fruit = "papaya",
   grocery_item = "toilet paper",
   verb = "cut up",
-  weather = "drizzly",
   mode_of_transport = "train",
   judgement = "confusing"
 )
