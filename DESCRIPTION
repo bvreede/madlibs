@@ -1,0 +1,10 @@
+Package: madlibs
+Type: Package
+Title: We Write Our Own Story
+Version: 0.1.0
+Authors@R: person("Barbara", "Vreede", email = "b.vreede@gmail.com", role = c("aut", "cre"))
+Description: Example package for training purposes, writing simple stories madlibs-style.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
