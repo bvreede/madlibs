@@ -26,11 +26,13 @@ story_science(
 
 \item{field}{A scientific field}
 }
+\value{
+a fascinating story
+}
 \description{
 A story about a new scientific breakthrough
 }
 \examples{
-{
 story_science(
   journal = "Nature",
   phenomenon = "gravity",
@@ -39,5 +41,4 @@ story_science(
   judgement = "breakthrough",
   field = "nutrition"
   )
-}
 }

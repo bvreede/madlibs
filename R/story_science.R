@@ -7,10 +7,10 @@
 #' @param judgement A description of quality (e.g. "outstanding", "breakthrough", or "shocking")
 #' @param field A scientific field
 #'
-#' @return
+#' @return a fascinating story
 #' @export
 #'
-#' @examples{
+#' @examples
 #' story_science(
 #'   journal = "Nature",
 #'   phenomenon = "gravity",
@@ -19,7 +19,6 @@
 #'   judgement = "breakthrough",
 #'   field = "nutrition"
 #'   )
-#' }
 story_science <- function(
     journal,
     phenomenon,
