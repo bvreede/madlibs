@@ -4,7 +4,7 @@
 #' @param region Where about in the country ("Sicily","Milan","Rome")
 #' @param length number of days
 #' @param type Type of vacation?
-#' @param activity A description of quality (e.g. "outstanding", "breakthrough", or "shocking")
+#' @param activity An activity (e.g. "skydiving", or "water skiing")
 #'
 #' @return a fascinating story
 #' @export
