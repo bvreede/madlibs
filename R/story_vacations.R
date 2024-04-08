@@ -21,15 +21,12 @@ story_vacations <- function(
     country = "Italy",
     region = "Milan",
     length = "as long as it takes",
-    type = 'family vacation',
+    type = 'family',
     activity = "sky diving"
 ){
   return(
-    paste("In the most recent issue of", paste0(journal, ","),
-          "a paper was published that showed how", phenomenon,
-          "can influence", organism, "and speed up their",
-          paste0(biological_process, "."), "This", judgement,
-          "finding has the potential to revolutionize our understanding of",
-          field, "and improve our collective relationship with", paste0(organism, "."))
+    paste("Last year I went to ",region,"in", country,
+          "for a ", type,
+          "vacation of ",length ," days. I did, ", activity, ".")
   )
 }
